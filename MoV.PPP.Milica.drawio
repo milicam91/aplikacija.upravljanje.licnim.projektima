@@ -1,0 +1,160 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="3zFuYC80ST5rb82TjPb-">
+    <mxGraphModel dx="1990" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-1" value="Materijali" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-2" target="ATIcLeIrrSWWEcnzNhp6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-2" target="ATIcLeIrrSWWEcnzNhp6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-2" value="Projekat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-3" value="Zadatak" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="294" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-4" value="Radnici" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-6" target="ATIcLeIrrSWWEcnzNhp6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-6" value="Napomene" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-8" target="ATIcLeIrrSWWEcnzNhp6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-8" value="id_projekat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-9" value="id_mašine" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-10" target="ATIcLeIrrSWWEcnzNhp6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-10" value="id_alat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.815;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-9" target="ATIcLeIrrSWWEcnzNhp6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-15" target="ATIcLeIrrSWWEcnzNhp6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-15" value="id_radnik" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-16" target="ATIcLeIrrSWWEcnzNhp6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-16" value="ime" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-17" target="ATIcLeIrrSWWEcnzNhp6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-17" value="id_projekat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-18" target="ATIcLeIrrSWWEcnzNhp6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-18" value="id_pozicija" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-19" target="ATIcLeIrrSWWEcnzNhp6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-19" value="prezime" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-20" value="broj telefona" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-20" target="ATIcLeIrrSWWEcnzNhp6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.7;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-2" target="ATIcLeIrrSWWEcnzNhp6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-6" target="ATIcLeIrrSWWEcnzNhp6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-33" target="ATIcLeIrrSWWEcnzNhp6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-33" value="Naziv projekta" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-34" value="id_projekat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-35" target="ATIcLeIrrSWWEcnzNhp6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-35" value="id_zadatak" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-36" target="ATIcLeIrrSWWEcnzNhp6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-36" value="id_radnika" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.165;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-34" target="ATIcLeIrrSWWEcnzNhp6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-41" target="ATIcLeIrrSWWEcnzNhp6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-41" value="id_napomene" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="115" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-42" value="id_projekta" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-43" value="id_zadatka" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.673;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-42" target="ATIcLeIrrSWWEcnzNhp6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.118;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-43" target="ATIcLeIrrSWWEcnzNhp6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-47" target="ATIcLeIrrSWWEcnzNhp6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-47" value="naziv zadatka" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-48" value="id_projekta" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-49" value="id_zadatka" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.182;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-49" target="ATIcLeIrrSWWEcnzNhp6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.568;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-48" target="ATIcLeIrrSWWEcnzNhp6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-53" value="Rok" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="175" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ATIcLeIrrSWWEcnzNhp6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ATIcLeIrrSWWEcnzNhp6-53" target="ATIcLeIrrSWWEcnzNhp6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
